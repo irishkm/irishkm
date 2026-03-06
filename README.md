@@ -1,4 +1,4 @@
-Hi, I'm Rishika 👋
+# Hi, I'm Rishika 👋
 
 Final year Computer Science student specializing in Artificial Intelligence working on backend development and problem solving.
 
