@@ -4,6 +4,8 @@ Final year Computer Science student specializing in Artificial Intelligence work
 
 I'm Currently working on building backend projects with Node.js and Express and solving DSA problems using C++.
 
+
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -12,3 +14,6 @@ I'm Currently working on building backend projects with Node.js and Express and 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=irishkm&color=blue&style=flat-square)
