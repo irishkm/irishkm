@@ -1,7 +1,7 @@
 # Hi, I'm Rishika
 
 Backend and AI engineer, B.Tech CS (AI) graduate 2026. Currently open to full-time SDE / AI Engineering roles.
-
+My work is mainly based across Back-End Development and Generative AI.
 I build async backend systems with Python and FastAPI, and work on RAG pipelines and LLM/VLM evaluation. Recently built a Gen AI evaluation leaderboard at Appy Pie, ranking text-to-video models using Bradley-Terry and Elo scoring, and a locally-hosted VLM judge running on CUDA.
 
 ### What I'm working on
